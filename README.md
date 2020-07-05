@@ -1,68 +1,20 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### :zap:Sorting Algorithm Visualiser
+![Gif]
 
-## Available Scripts
+## :sparkles:Contents and Algorithms
+There are 4 views included , the Home page , Theory page , Practice Page and Visualiser Page. The Theory and Practice page provide related and brief study material and to do questions for some selected algorithms like bubble sort , merge sort , insertion sort , heap sort , Dijkstra shortest path algorithm.
+The visualiser helps in better understanding these algorithms , currently it has merge sort and bubble sort visualisers only.
 
-In the project directory, you can run:
+## :question:How to Use:
 
-### `yarn start`
+* On the Theory and Practice page , there is a side navbar with algorithms name on it.
+* Choose the algorithm you want and the content related to it will be rendered.
+* For the visualiser , create a new array which will be sorted , by clicking on **Generate New Array** button.
+* Pick the desired algorithm.
+* The array will be sorted according to the chosen algorithm , with the indices being compared int one color ,initial array in another , and final array in a different one.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## :anger:To-do:
+- [ ] update UI
+- [ ] Add more Practice problems to each category
+- [ ] Add Path Finding Visualiser
+- [ ] Add *size and range of array* feature
