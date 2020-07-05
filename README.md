@@ -1,5 +1,5 @@
 ### :zap:Sorting Algorithm Visualiser
-![Demo] (Demo/React-App-Google-Chrome-2020-07.gif)
+![Demo](Demo/React-App-Google-Chrome-2020-07.gif)
 
 ## :sparkles:Contents and Algorithms
 There are 4 views included , the Home page , Theory page , Practice Page and Visualiser Page. The Theory and Practice page provide related and brief study material and to do questions for some selected algorithms like bubble sort , merge sort , insertion sort , heap sort , Dijkstra shortest path algorithm.
